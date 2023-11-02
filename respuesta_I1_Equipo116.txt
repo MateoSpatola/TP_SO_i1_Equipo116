@@ -12,3 +12,8 @@ e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 ALFA:
 a) Si, puedo ver los datos de los demas integrantes.
 b) Si, los demas integrantes pueden ver los archivos que agregue.
+
+BETA: 
+c) Si, los demás integrantes pueden ver el archivo agregado por BETA.
+d) Organizamos mediante la creación de un grupo en Whatsapp para avisar los cambios realizados. 
+
